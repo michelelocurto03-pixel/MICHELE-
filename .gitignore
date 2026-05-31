@@ -1,2 +1,15 @@
 .DS_Store
+.vscode/.ipynb_checkpoints/Financial_Investment_Storytelling_extended-checkpoint.ipynb
+.vscode/..ipynb_checkpoints/Financial_Investment_Storytelling_extended-checkpoint.ipynb
+.vscode/..ipynb_checkpoints/Utilities_new5-checkpoint.ipynb
+.vscode/..ipynb_checkpoints/Utilities-checkpoint.ipynb
+.vscode/jupyter/desktop-workspaces
+
+.ipynb_checkpoints/
+.jupyter/
+.virtual_documents/
 .vscode/
+..gitignore
+./Users/michelelocurto/Desktop/GIT HUB/DF_basic.ipynb
+.DF_basic.ipynb
+.DF_basic.ipynb
